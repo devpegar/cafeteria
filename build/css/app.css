@@ -872,7 +872,7 @@ h3 {
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1024px) {
   .contenido-contacto {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -935,3 +935,4 @@ h3 {
 .pb-0 {
   padding-bottom: 0;
 }
+/*# sourceMappingURL=app.css.map */
